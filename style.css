@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    /* background-color: blue; */
+    text-align: center;
+    text-decoration: 3px solid black underline;
+}
+
+
+a{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h2{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul li{
+    font-size: 20px;
+    padding: 10px;
+}
+
+ol li{
+    font-size: 20px;
+    padding: 10px;
+}
